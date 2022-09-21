@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Saruka4
-- 👀 I’m interested in learning and doing codes 
-- 🌱 I’m currently learning ..information Communication Technology 
-- 💞️ I’m looking to collaborate on .learning new programming languages and as well as doing something new 📫 How to reach me ...
+-👀 I’m very inspired to learning and doing codes 
+-🌱 I’m currently learning:-Information and  Communication Technology 
+-💞️ I’m looking to collaborate on:-learning new programming languages and improving web development skills as well as doing something new
 
 <!---
 Saruka4/Saruka4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
